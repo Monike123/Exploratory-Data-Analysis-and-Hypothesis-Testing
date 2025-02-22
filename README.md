@@ -16,9 +16,10 @@ Mission: Name of the space mission.
 RocketStatus: Active or Inactive status of the rocket.
 Price: Cost of the rocket in millions of dollars.
 MissionStatus: Outcome (Success/Failure).
+
+
 Objectives:
 The primary objective is to uncover patterns in mission outcomes, including:
-
 Success vs. failure rates across space agencies.
 Correlation between rocket costs and mission success.
 Trends in rocket reusability and lifespan.
