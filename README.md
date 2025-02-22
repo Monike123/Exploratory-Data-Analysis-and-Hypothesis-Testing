@@ -9,12 +9,19 @@ Link : [https://www.kaggle.com/datasets/abhijitdahatonde/real-time-space-mission
 The dataset includes information on space missions from various organizations, detailing rocket types, mission outcomes, launch times, and more. Key fields:
 
 Company: Space organization conducting the mission.
+
 Location: Launch location.
+
 Date & Time: Launch date and time (UTC).
+
 Rocket: Rocket name used.
+
 Mission: Name of the space mission.
+
 RocketStatus: Active or Inactive status of the rocket.
+
 Price: Cost of the rocket in millions of dollars.
+
 MissionStatus: Outcome (Success/Failure).
 
 
